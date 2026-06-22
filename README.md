@@ -2,4 +2,4 @@
 Organization profile
 
 ---
-*Last verified: June 19, 2026*
+*Last verified: June 22, 2026*
